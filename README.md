@@ -63,20 +63,6 @@ class ShrajalPandey:
 
 ## 🚀 Featured Projects
 
-### 🔧 [Zenith Orchestrator](https://github.com/shrajal01/zenith-orchestrator) — Distributed Task Processing System &nbsp; [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render&logoColor=white)](https://zenith-orchestrator.netlify.app)
-
-> *"Most task queue tutorials stop at hello world. This one doesn't."*
-
-| Feature | Detail |
-|---|---|
-| ⚙️ Workers | Celery · concurrency=10 · async task dispatch |
-| 🔁 Fault Tolerance | 3x retry · exponential backoff · Dead-Letter Queue (DLQ) |
-| 🛡️ Rate Limiting | Redis sliding window · 5 tasks / 60s per user |
-| 📡 Real-Time | WebSocket dashboard · auto-reconnect · live analytics |
-| 🐳 DevOps | Docker Compose · deployed on Render |
-
----
-
 ### 🏗️ [Collaborative Workspace Backend](https://github.com/shrajal01/collaborative-workspace-backend) — Slack / Notion Lite
 
 > *"Built like a real startup — checkpoint by checkpoint across 7 engineering milestones."*
