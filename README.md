@@ -107,7 +107,7 @@ class ShrajalPandey:
 
 ---
 
-### 🎮 LexiRush — Real-Time Multiplayer Vocabulary Platform &nbsp; <sub>(Mar 2025 – Apr 2025)</sub> &nbsp; [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=netlify&logoColor=white)](https://lexirush.netlify.app)
+### 🎮 LexiRush — Real-Time Multiplayer Vocabulary Platform &nbsp; <sub>(Mar 2025 – Apr 2025)</sub> &nbsp; [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=netlify&logoColor=white)](https://lexirush.netlify.app) &nbsp; [![Patent](https://img.shields.io/badge/Patent-Published-8A2BE2?style=flat&logo=googlescholar&logoColor=white)](https://ipindiaservices.gov.in/PatentSearch/)
 
 > Full-stack gamified vocabulary platform, demo-tested with 3000+ students.
 
@@ -117,6 +117,17 @@ class ShrajalPandey:
 | ⚡ Performance | Average multiplayer sync latency below 120ms |
 | 📊 Admin | CSV/XLSX ingestion · live leaderboards · dynamic difficulty control · PDF analytics reports |
 | 🌐 Stack | React.js · Node.js · Express.js · Netlify |
+| 📜 Patent | **Published** — Indian Patent Application **IN202611057252 A1**, "A real-time grid-based system for gamified vocabulary learning" · Filed 05-05-2026 · Published 17-07-2026 · Applicant: KIET · Co-inventors: Himanshu Saxena, Shashwat Srivastava, Siddhant Shukla, Shrajal Pandey, Yash Pradeep |
+
+---
+
+## 🦈 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/shrajal01">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark"/>
+  </a>
+</p>
 
 ---
 
@@ -129,7 +140,7 @@ class ShrajalPandey:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrajal01&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=shrajal01&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
 </p>
 
 ---
@@ -137,7 +148,7 @@ class ShrajalPandey:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrajal01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shrajal01&theme=tokyonight&no-frame=true&margin-w=8&column=7"/>
 </p>
 
 ---
