@@ -13,7 +13,7 @@ I'm currently deepening my work in **LLM applications, agentic workflows, retrie
 
 ---
 
-## Selected Projects
+## Projects
 
 ### [JakRif Sentinel](https://github.com/shrajal01/jakrif-sentinel) — Payment Reliability Platform
 
